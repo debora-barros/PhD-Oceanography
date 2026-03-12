@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1168122092.svg)](https://doi.org/10.5281/zenodo.18974390)
+
 # PhD-Oceanography
 Code and datasets for reproducing the analysis and figures presented in my PhD thesis.
 
@@ -68,11 +70,11 @@ The notebooks should be executed in the following order:
 
 ## Citation & Licensing
 
-If you use these notebooks, the methodology, or the results in your research, please provide attribution by citing the corresponding paper:
+If you use these notebooks, the methodology, or the results in your research, please provide attribution by citing:
 
-> **Barros, D. et al. (2026). *In development* .**
+> **Barros, D.: Codebase for Barros et al. 2026 (v1.0.0), Zenodo [code], https://zenodo.org/records/18974391, 2026.**
 
-*(A full citation model will be updated here upon official publication).*
+
 
 This code is provided under the **MIT License**.
 
